@@ -1,0 +1,15 @@
+{
+  "name": "Conferência de Inventário",
+  "short_name": "Inventário",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b4fb5",
+  "theme_color": "#1457c8",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
