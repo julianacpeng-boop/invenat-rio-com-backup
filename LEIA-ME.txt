@@ -1,0 +1,2 @@
+O APK desta versão será gerado automaticamente pelo GitHub Actions após enviar as alterações para a branch main.
+Arquivo esperado após a compilação: saida/Conferencia_de_Inventario.apk
