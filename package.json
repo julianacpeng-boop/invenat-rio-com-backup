@@ -1,0 +1,22 @@
+{
+  "name": "conferencia-de-inventario",
+  "displayName": "Conferência de Inventário",
+  "version": "1.1.0",
+  "description": "Aplicativo de Conferência de Inventário da Engenharia Clínica",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-chooser": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-x-socialsharing": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "15.0.0",
+    "cordova-plugin-chooser": "1.3.2",
+    "cordova-plugin-file": "^8.1.3",
+    "cordova-plugin-x-socialsharing": "^6.0.4"
+  }
+}

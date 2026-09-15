@@ -1,0 +1,18 @@
+CONFERÊNCIA DE INVENTÁRIO - VERSÃO 1.1
+
+NOVO RECURSO:
+- Fazer backup do inventário em andamento (.json)
+- Restaurar o backup em outro celular
+- Mantém conferidos, pendentes, divergentes, não encontrados, novos equipamentos, alterações, observações, datas e horas
+
+COMO TROCAR DE CELULAR:
+1. No celular atual, abra o inventário e toque em "Fazer backup".
+2. Salve/compartilhe o arquivo backup_inventario_....json (Drive, WhatsApp, arquivos etc.).
+3. Instale a mesma versão do aplicativo no outro celular.
+4. Toque em "Restaurar backup" e selecione o arquivo .json.
+5. Confirme a restauração. O inventário continua do ponto salvo.
+
+IMPORTANTE:
+- Não use "Importar planilha" para continuar um inventário já iniciado. Use "Restaurar backup".
+- O APK antigo foi removido deste pacote para evitar instalação acidental da versão anterior.
+- Ao enviar este projeto ao GitHub na branch main, o workflow gera um APK atualizado na pasta saida.
